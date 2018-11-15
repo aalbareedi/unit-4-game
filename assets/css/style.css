@@ -1,0 +1,56 @@
+* {
+  margin: 5px;
+}
+body {
+  background-color: lightblue;
+}
+h1 {
+  background-color: orange;
+  width: 260px;
+  height: 2em;
+  margin-left: 10px;
+  line-height: 1.8em;
+  font-size: 1.8em;
+  text-align: center;
+}
+img {
+  width: 75px;
+  height: 75px;
+}
+#winLoseScore {
+  background-color: aqua;
+  width: 100px;
+  height: 145px;
+  float: left;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+#scoreCounter {
+  background-color: #3dd07c;
+  width: 250px;
+  height: 150px;
+  font-size: 3em;
+  float: left;
+  padding-left: 10px;
+}
+#section2 {
+  clear: left;
+}
+#totalScoreText {
+  width: 250px;
+  height: 30px;
+  background-color: #179181;
+  margin-left: 10px;
+  padding-left: 10px;
+  color: white;
+  line-height: 1.8em;
+}
+#currentUserScore {
+  width: 250px;
+  height: 150px;
+  background-color: #179181;
+  margin-left: 10px;
+  font-size: 3em;
+  padding-left: 10px;
+  color: white;
+}
